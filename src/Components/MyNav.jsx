@@ -12,7 +12,7 @@ class MyNav extends React.Component {
             <Nav.Link href="#">About</Nav.Link>
             <Nav.Link href="#">Broswe</Nav.Link>
           </Nav>
-          <div class="input-group">
+          <div class="input-group justify-content-end">
             <div class="form-outline">
               <input id="search-focus" type="search" class="form-control" />
             </div>
